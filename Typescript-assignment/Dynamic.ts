@@ -21,6 +21,6 @@ simple={
 }
 
 simple={
-    salary:65615,
-    count:56
+    salary:'horse',
+    count:'cost'
 }

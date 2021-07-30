@@ -10,12 +10,11 @@ IsLoogedIn=true;
 //IsLoogedIn='54';
 
 //Arrays:
-
 let animals:string[]=[];
 animals.push("dog");
 
 //Union types:
-let mixtures:(string|number|boolean)[]=[];4
+let mixtures:(string|number|boolean)[]=[];
 
 mixtures.push("soething");
 mixtures.push(54321);
